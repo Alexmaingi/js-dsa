@@ -1,8 +1,3 @@
-// const reverseString = require("./index");
-
-// test("should have a function reveseString defined", () => {
-//   expect(reverseString).toBeDefined();
-// });
 const reverseString = require("./reverse.js");
 
 describe("reverseString", () => {
